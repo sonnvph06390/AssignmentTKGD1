@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quan ly thu chi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Thu fragment</string>
+    <string name="loai_chi_fragment">Loai chi</string>
+    <string name="khoan_chi_fragment">khoan chi</string>
+
+</resources>

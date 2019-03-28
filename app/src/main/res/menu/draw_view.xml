@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_khoanthu"
+            android:icon="@drawable/ic_assessment_black_24dp"
+            android:title="Khoan thu" />
+        <item
+            android:id="@+id/nav_khoanchi"
+            android:icon="@drawable/ic_assessment_black_24dp"
+            android:title="Khoan chi" />
+        <item
+            android:id="@+id/nav_thongke"
+            android:icon="@drawable/ic_assessment_black_24dp"
+            android:title="Thong ke" />
+    </group>
+
+
+    <item android:title="communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_gioithieu"
+                android:icon="@drawable/ic_assessment_black_24dp"
+                android:title="Gioi thieu" />
+            <item
+                android:id="@+id/nav_thoat"
+                android:icon="@drawable/ic_assessment_black_24dp"
+                android:title="Thoat" />
+        </menu>
+    </item>
+
+
+</menu>
